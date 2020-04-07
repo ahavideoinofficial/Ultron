@@ -22,18 +22,15 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-I know what it's like to lose. To feel so desperately that you're right, yet to fail nonetheless. Dread it. Run from it.
-Destiny still arrives. Or should I say, I have.
+I'm A Group Modular Bot, Managed By [My Master](https://t.me/Unknown_Hacker_005X) . To Get Bot Status Or Info Or Any Updates.., You Can Join Our [Support Group](https://t.me/X_Crew) . 
 
-I'm world manager bot maintained by [this awesome person](https://t.me/Unknown_Hacker_005_X)!
+If You Are Enjoying My Lovable Features To Maintain Your Group.. Wanna Donate Me Something? Instead Feed Any Poor Person Or Help Him/Her. I'll Feel Good And Very Thankful To You ❤️ 
+Click Help Button To Find Out More About How To Use me mo my Full Potential.
 
-Click Help button to find out more about how to use me to my full potential.
-
-Special Thanks to @noobanon sar
-
+Special Thanks To @Noob_Boi , My LubH. 
+Creator @Unknown_Hacker_005_X 
 
 
-Earth. That is my price.!"""
 
 
 IMPORTED = {}
